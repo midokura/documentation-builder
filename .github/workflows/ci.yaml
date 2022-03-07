@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+    tags:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build
+    steps:
+      - uses: actions/checkout@v3
+      - name: Login to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME_RW }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD_RW }}
+      - name: Login to GitHub Packages
+        uses: docker/login-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+          registry: ghcr.io
+      - name: Generate Docker meta names
+        uses: docker/metadata-action@v3
+        id: meta
+        with:
+          images: |
+            ${{ github.repository }}
+            ghcr.io/${{ github.repository }}
+          tags: |
+            type=ref,event=tag
+      - name: Build Docker
+        uses: docker/build-push-action@v2
+        with:
+          push: ${{ github.event_name != 'pull_request' }}
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          context: .

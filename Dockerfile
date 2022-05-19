@@ -7,4 +7,4 @@ RUN apt-get update && apt-get install -y \
       latexmk texlive-latex-recommended texlive-latex-extra \
     && apt-get clean && \
     rm -rf /var/lib/apt /var/cache/apt && \
-    pip install --upgrade pip setuptools
+    pip install --upgrade --no-cache pip setuptools

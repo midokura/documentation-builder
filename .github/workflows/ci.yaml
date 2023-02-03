@@ -9,7 +9,7 @@ on:
       - main
     tags:
       - '**'
-  workflow_run:
+  workflow_dispatch:
 
 jobs:
   build:

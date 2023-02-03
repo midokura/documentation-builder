@@ -31,7 +31,7 @@ jobs:
       - name: Get current date
         id: date
         run: |-
-          "date=$(date +'%y.%m')" >> $GITHUB_OUTPUT
+          echo "date=$(date +'%y.%m')" >> $GITHUB_OUTPUT
       - name: Generate Docker meta names
         uses: docker/metadata-action@v4
         id: meta

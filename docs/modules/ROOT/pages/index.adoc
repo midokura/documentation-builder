@@ -1,0 +1,14 @@
+= User's Guide to Foo
+:!sectids:
+
+Welcome to the Architecture Enabled Correlation (AEC).
+
+This guide provides Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci.
+
+Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci.:
+
+* Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci..
+* Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci..
+* Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci..
+
+* Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci.

@@ -1,0 +1,22 @@
+
+= Step 2: View and Create Situations
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id pulvinar ipsum. Phasellus ultrices arcu in luctus ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed sapien suscipit, vehicula eros sed, lacinia justo. Quisque rhoncus dignissim blandit. Maecenas fermentum velit eget quam lacinia, at rutrum enim tristique. Etiam bibendum dui at luctus mattis. Suspendisse eget tincidunt lorem, sed viverra nisl. Maecenas aliquet sapien blandit lectus eleifend, quis laoreet magna porta. Sed porta tristique sapien vitae condimentum. Integer in velit enim. Curabitur in metus turpis. Vestibulum feugiat metus eu ante cursus vulputate. Suspendisse eget eros sit amet metus congue blandit.
+
+Praesent ut mi lacus. Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci. Integer consequat gravida dictum. Vestibulum feugiat nunc turpis, a posuere purus placerat vitae. Nulla mattis dictum risus, eget cursus nisl fermentum ut. Phasellus venenatis metus lectus, at egestas justo vehicula in. Cras id suscipit nisl.
+
+== View all situations
+
+Praesent ut mi lacus. Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci. Integer consequat gravida dictum. Vestibulum feugiat nunc turpis, a posuere purus placerat vitae. Nulla mattis dictum risus, eget cursus nisl fermentum ut. Phasellus venenatis metus lectus, at egestas justo vehicula in. Cras id suscipit nisl.
+
+.ALEC Situation List page
+
+Praesent ut mi lacus. Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci. Integer consequat gravida dictum. Vestibulum feugiat nunc turpis, a posuere purus placerat vitae. Nulla mattis dictum risus, eget cursus nisl fermentum ut. Phasellus venenatis metus lectus, at egestas justo vehicula in. Cras id suscipit nisl.
+
+== View and manage a situation
+
+TPraesent ut mi lacus. Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci. Integer consequat gravida dictum. Vestibulum feugiat nunc turpis, a posuere purus placerat vitae. Nulla mattis dictum risus, eget cursus nisl fermentum ut. Phasellus venenatis metus lectus, at egestas justo vehicula in. Cras id suscipit nisl.
+
+.Situation details page
+
+Praesent ut mi lacus. Pellentesque ligula augue, gravida vel dolor at, eleifend iaculis orci. Integer consequat gravida dictum. Vestibulum feugiat nunc turpis, a posuere purus placerat vitae. Nulla mattis dictum risus, eget cursus nisl fermentum ut. Phasellus venenatis metus lectus, at egestas justo vehicula in. Cras id suscipit nisl.

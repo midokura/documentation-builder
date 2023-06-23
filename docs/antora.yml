@@ -1,0 +1,5 @@
+name: jim demo
+version: '1.0'
+title: Demo demo demo
+nav:
+  - modules/ROOT/nav.adoc

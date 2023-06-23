@@ -1,0 +1,24 @@
+
+= Step 1: First-Time Login 
+
+Praesent ut mi lacus.
+
+== Data choices
+
+Praesent ut mi lacus.
+
+.FOO data permissions prompt
+
+Praesent ut mi lacus.
+
+== Configure clustering engine
+
+Praesent ut mi lacus.
+
+.Correlation engine selection prompt
+
+Praesent ut mi lacus.
+
+== Beyond Quick Start
+
+Praesent ut mi lacus.
